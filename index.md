@@ -2,27 +2,10 @@
 
 You'll be able to see my personal photography pictures along with any other pictures I may take for this year.
 
-### Markdown
+### Why you should vote for me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+I've been into taking photos and photography ever since I was a little kid. I have always been interested
+in playing with my parents' camera and ever since I got my own camera I have been taking as many pictures as I can.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
